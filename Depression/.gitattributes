@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+STEM.ipynb filter=lfs diff=lfs merge=lfs -text
